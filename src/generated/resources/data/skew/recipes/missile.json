@@ -1,0 +1,16 @@
+{
+  "type": "skew:workbench",
+  "materials": [
+    {
+      "count": 2,
+      "tag": "forge:nuggets/iron"
+    },
+    {
+      "count": 4,
+      "tag": "forge:gunpowder"
+    }
+  ],
+  "result": {
+    "item": "skew:missile"
+  }
+}

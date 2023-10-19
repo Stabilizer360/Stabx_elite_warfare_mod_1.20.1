@@ -1,0 +1,17 @@
+{
+  "type": "skew:workbench",
+  "materials": [
+    {
+      "count": 4,
+      "item": "minecraft:copper_ingot"
+    },
+    {
+      "count": 1,
+      "tag": "forge:gunpowder"
+    }
+  ],
+  "result": {
+    "count": 32,
+    "item": "skew:advanced_bullet"
+  }
+}

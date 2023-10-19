@@ -1,0 +1,12 @@
+{
+  "type": "skew:workbench",
+  "materials": [
+    {
+      "count": 24,
+      "tag": "forge:ingots/iron"
+    }
+  ],
+  "result": {
+    "item": "skew:rifle"
+  }
+}

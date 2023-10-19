@@ -1,0 +1,10 @@
+{
+    "skew:model": {
+        "origin": [8.0, 8.0, 8.0]
+    },
+    "skew:barrel": {
+        "muzzleFlash": {
+            "translation": [8.0, 8.0, -0.1]
+        }
+    }
+}
